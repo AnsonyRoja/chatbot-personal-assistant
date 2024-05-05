@@ -40,7 +40,7 @@ const flujoLinkedin = addKeyword(['Linkedin', 'Linkedi', 'Linkedins'])
 
     })
 
-const flujoPrincipal = addKeyword(['hola', 'hols', 'buenos dias', 'buenas tardes', 'buenas noches'])
+const flujoPrincipal = addKeyword(['hola', 'hols', 'buenos dias', 'buenas tardes', 'buenas noches', 'hola cómo estas ?', 'hola ¿cómo estas?', 'Hola Ansony', 'Ansony ?', 'hola como estas ?', 'hola como estas?', 'hola cómo estas', 'hola como estas'])
     .addAnswer(['👨‍💼 Soy el asistente personal de Ansony. Estoy aquí para ayudarte a acceder a toda la información y a su 👨‍🎓currículum profesional',
         ' ¡Solo dime lo que necesitas y estaré encantado de ayudarte!'])
     .addAnswer(['Estas son las opciones:', '• *Curriculum*', '• *Github*', '• *Linkedin*'], { capture: true }, async (ctx, { fallBack, flowDynamic }) => {

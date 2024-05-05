@@ -1,0 +1,98 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206168140@s.whatsapp.net',
+    fromMe: false,
+    id: '833422E2E7B59032246B7EF82071ACB1',
+    participant: undefined
+  },
+  messageTimestamp: 1714922244,
+  pushName: 'Ansony Rojas',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Ansony Rojas',
+  body: 'Hola',
+  from: '573206168140'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f809c529-d2fa-49ba-bfd2-cef55459a674',
+  keyword: 'key_f2f2c0dd-cb2d-4944-8b88-2673bc9953f0',
+  answer: '👨‍💼 Soy el asistente personal de Ansony. Estoy aquí para ayudarte a acceder a toda la información y a su 👨‍🎓currículum profesional\n' +
+    ' ¡Solo dime lo que necesitas y estaré encantado de ayudarte!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5b9dfcd727bce99cf96cf85c42c0d0cc'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9a0dbe65-002b-4970-8944-d3ee2e6056d8',
+  keyword: 'ans_f809c529-d2fa-49ba-bfd2-cef55459a674',
+  answer: 'Estas son las opciones:\n• *Curriculum*\n• *Github*\n• *Linkedin*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '626c16ab879f10d87decd361b8bf6937'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206168140@s.whatsapp.net',
+    fromMe: false,
+    id: '8BB0DB979A6792A0A29CD4259DC0639E',
+    participant: undefined
+  },
+  messageTimestamp: 1714922423,
+  pushName: 'Ansony Rojas',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573206168140'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206168140@s.whatsapp.net',
+    fromMe: false,
+    id: 'B966E229944CEAB28CC4448997C44693',
+    participant: undefined
+  },
+  messageTimestamp: 1714922433,
+  pushName: 'Ansony Rojas',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hila',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hila',
+  from: '573206168140'
+}
