@@ -1,0 +1,268 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '584128093829@s.whatsapp.net',
+    fromMe: false,
+    id: '759C6651A0C5AC1A14546026E23576E9',
+    participant: undefined
+  },
+  messageTimestamp: 1714921143,
+  pushName: 'Hagvag Celine(Ansony)',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '584128093829'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_847fad79-0c75-4dac-a409-d16812e30f24',
+  keyword: 'key_27e4efc1-837b-4337-b15e-82a633ce20a6',
+  answer: '👨‍💼 Soy el asistente personal de Ansony. Estoy aquí para ayudarte a acceder a toda la información y a su 👨‍🎓currículum profesional\n' +
+    ' ¡Solo dime lo que necesitas y estaré encantado de ayudarte!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '565af194c290de59bf2ffd0c510ca0bb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9dfa4287-0a7a-4a7b-a589-30e6f2b213a7',
+  keyword: 'ans_847fad79-0c75-4dac-a409-d16812e30f24',
+  answer: 'Estas son las opciones:\n• *Curriculum*\n• *Github*\n• *Linkedin*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9795015d51d1e957473a7a766bd87e0b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584128093829@s.whatsapp.net',
+    fromMe: false,
+    id: 'E8DD5AC80F4E967F5CB3B93600185A74',
+    participant: undefined
+  },
+  messageTimestamp: 1714921146,
+  pushName: 'Hagvag Celine(Ansony)',
+  broadcast: false,
+  message: Message {
+    conversation: 'Currículum',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Currículum',
+  from: '584128093829'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a072e421-bd8a-43b2-8b9b-f47f51f9d91d',
+  keyword: 'key_cb2077fb-0c37-4053-8443-5a30d8f74bc8',
+  answer: '👉 Este es el link que te redirecciona hacia su curriculum',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '5a882d0b4c464333f1211e5f58ec688b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584128093829@s.whatsapp.net',
+    fromMe: false,
+    id: '03FBE5BB83629176B9274E6FA4BC61DE',
+    participant: undefined
+  },
+  messageTimestamp: 1714921155,
+  pushName: 'Hagvag Celine(Ansony)',
+  broadcast: false,
+  message: Message {
+    conversation: 'Github',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Github',
+  from: '584128093829'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584128093829@s.whatsapp.net',
+    fromMe: false,
+    id: '7712E76F7651E755A0030E20AC655050',
+    participant: undefined
+  },
+  messageTimestamp: 1714921156,
+  pushName: 'Hagvag Celine(Ansony)',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hwa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hwa',
+  from: '584128093829'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c3a2ccd8-153e-42b0-91f5-e8b1f1d3df31',
+  keyword: 'key_b1d310e5-c80d-43c2-91c6-885ace4286cc',
+  answer: '🏆 Para visualizar los repositorios te invito a que visites nuestra url',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f92739cfd68f01280ea99819c93db553'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584128093829@s.whatsapp.net',
+    fromMe: false,
+    id: '7F196974793CF03ECE02A01AF455F81A',
+    participant: undefined
+  },
+  messageTimestamp: 1714921159,
+  pushName: 'Hagvag Celine(Ansony)',
+  broadcast: false,
+  message: Message {
+    conversation: 'Github',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Github',
+  from: '584128093829'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c3a2ccd8-153e-42b0-91f5-e8b1f1d3df31',
+  keyword: 'key_b1d310e5-c80d-43c2-91c6-885ace4286cc',
+  answer: '🏆 Para visualizar los repositorios te invito a que visites nuestra url',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f92739cfd68f01280ea99819c93db553'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584128093829@s.whatsapp.net',
+    fromMe: false,
+    id: '50B2FDBEA3B00C8B224D85888B02AA0A',
+    participant: undefined
+  },
+  messageTimestamp: 1714921167,
+  pushName: 'Hagvag Celine(Ansony)',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jf',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jf',
+  from: '584128093829'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584128093829@s.whatsapp.net',
+    fromMe: false,
+    id: '0CE98038507D84B06F8E0B29ED5335D1',
+    participant: undefined
+  },
+  messageTimestamp: 1714921169,
+  pushName: 'Hagvag Celine(Ansony)',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '584128093829'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_847fad79-0c75-4dac-a409-d16812e30f24',
+  keyword: 'key_27e4efc1-837b-4337-b15e-82a633ce20a6',
+  answer: '👨‍💼 Soy el asistente personal de Ansony. Estoy aquí para ayudarte a acceder a toda la información y a su 👨‍🎓currículum profesional\n' +
+    ' ¡Solo dime lo que necesitas y estaré encantado de ayudarte!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '565af194c290de59bf2ffd0c510ca0bb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9dfa4287-0a7a-4a7b-a589-30e6f2b213a7',
+  keyword: 'ans_847fad79-0c75-4dac-a409-d16812e30f24',
+  answer: 'Estas son las opciones:\n• *Curriculum*\n• *Github*\n• *Linkedin*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9795015d51d1e957473a7a766bd87e0b'
+}
